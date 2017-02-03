@@ -1,5 +1,5 @@
 # 文章目录
-- [1.如何检视](01 how to.md)
-- [2.为何检视](02 why.md)
+- [1.检视阅读五步法，快速了解一本书的方法](01 how to  inspectional reading reading.md)
+- [2.秒杀一切的学习方法，你想学吗？（附彩蛋）](02 xin li biao zheng xue xi fa.md)
 - [3.检视什么](03 what.md)
 - 
